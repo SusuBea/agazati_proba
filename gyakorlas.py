@@ -1,0 +1,14 @@
+abc = "AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTÚÜŰVWXYZ"
+titkos = "XYZAÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTÚÜŰVW"
+
+
+
+
+
+
+
+
+
+
+
+
